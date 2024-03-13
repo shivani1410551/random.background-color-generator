@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3ce;
+}
+#btn {
+  border-radius: 15px;
+  /* border: none; */
+  /* outline: none; */
+  font-size: 1.5rem;
+  letter-spacing: 10px;
+  padding: 15px 20px;
+  background-color: transparent;
+  color: #fff;
+  border: 5px solid #fff;
+}
